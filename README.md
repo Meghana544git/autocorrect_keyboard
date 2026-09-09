@@ -2,6 +2,8 @@
 
 A predictive keyboard system that anticipates the next word in a sentence using contextual information from preceding words, implemented with N-gram language modeling.
 
+👉 **Live Demo:** [https://autocorrectkeyboard.app](https://autocorrectkeyboard-e5k.streamlit.app/)
+
 ## Problem Statement
 Build an intuitive keyboard system that suggests the most likely next word as a user types, improving typing speed and accuracy — similar to smartphone keyboard autocomplete.
 
